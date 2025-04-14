@@ -1,1 +1,2 @@
 My name is Fabio and I have more than 25 years of experience in IT field. Unfortunately I do not have previous experience in data analytics, data science. I was coding in C, C#, PL-SQL at begnning of my career.
+I expect after the completion of the program to reach a solid background in ML and data science and to be able to design useful ML application for the area of business where actually I am involved. 
